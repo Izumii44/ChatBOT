@@ -1,0 +1,27 @@
+{
+  "name": "chatbot-ai",
+  "version": "1.0.0",
+  "description": "Simple Chatgpt AI Using Baileys.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@Irull2nd",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "link-preview-js": "^3.0.4",
+    "openai": "^3.1.0",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "axios": "^1.4.0",
+    "node-fetch": "^2.6.11",
+    "jimp": "^0.16.2"
+  }
+}
